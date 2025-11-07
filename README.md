@@ -13,6 +13,3 @@ Google Sheets
 
 Key Findings
 Looking at our table, the top five film genres with the highest profitability rates are Adventure, Family, Sci-Fi, Animation, and Fantasy, as the result of our analysis.
-
-Visualization
-![Movie_Data](AVERAGE of Box Office Revenue ($), AVERAGE of Budget ($) and AVERAGE PROFIT.png)
